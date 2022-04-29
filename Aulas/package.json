@@ -5,7 +5,7 @@
   "main": "aula05.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon ./class/aula10.js"
+    "start": "nodemon ./class/aula10.js"
   },
   "keywords": [],
   "author": "",
