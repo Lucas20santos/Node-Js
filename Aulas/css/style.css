@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html, body{
+    background-color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+.meus-hs
+{   
+    width: 80%;
+    height: 100%;
+    background-color: #00d5ff;
+    margin: auto;
+}
+.meus-hs h1, h2{
+    color: #fff;
+}
+.meus-hs h1
+{
+    text-align: center;
+}
+.meus-hs h2{
+    padding-left: 20px;
+}

@@ -13,6 +13,10 @@ app.get('/ola:nome', (req, res) => {
     res.send(req.params.nome);
 });
 
+app.get('/html', (req, res) => {
+    res.sendFile(__dirname + "/index.html")
+})
+
 app.listen(port, () => {
     console.log("run server in port: " + port);
 });
